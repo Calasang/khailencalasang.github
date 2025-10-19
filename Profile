@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color:blue;
+    }
+    header {
+      background-color: #0077b6;
+      color: white;
+      text-align: center;
+      padding: 50px 0;
+    }
+    img {
+      width: 150px;
+      border-radius: 50%;
+    }
+    section {
+      padding: 20px;
+      max-width: 700px;
+      margin: auto;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin-top: -50px;
+    }
+    h2 {
+      color: #0077b6;
+    }
+    .contact {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="profile.jpg" alt="My Photo">
+    <h1>Khailen Gelhea S. Calasang</h1>
+    <div class="contact">
+      📞 (+63) 93663421758 <br>
+      📧 khailengelhea200418@gmail.com <br>
+      🌐 www.calasang.com.ph <br>
+      📍 Dapitan City, Philippines
+    </div>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>👋 Hello, I’m Khailen
+
+I’m a BSIT student who enjoys learning about technology and creating simple but meaningful projects. I love working on websites and apps that can help people in everyday life. I’m still learning, but I always do my best to improve and explore new things in IT.</p>
+  </section>
+  
+  <section>
+    <h2>💻 Skills and Tools</h2>
+
+<p> Here are some tools and languages I’ve used and continue to practice:
+HTML • CSS • JavaScript • Python • PHP • MySQL • Figma • GitHub</p>
+  </section>
+  
+   <section>
+    <h2>What I’m Working On</h2>
+
+<p> Right now, I’m working on our final project for BSIT. Our goal is to create a system or app that’s simple, useful, and user-friendly. This project helps me improve my skills in programming, design, and teamwork.</p>
+  </section>
+  
+ <section>
+ <h2>🌐 Connect With Me</h2>
+
+<p>📧 Email:khailengelhea200418@email.com</p>
+  </section>
+  
+  <section>
+ <h2>A Little About Me</h2>
+
+<p>I enjoy learning new things about coding and design.
+
+I believe small progress every day leads to big improvement.
+
+I’m grateful for every opportunity to grow and share what I know.</p>
+  </section>
+
+
+</body>
+</html>
